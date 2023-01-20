@@ -20,7 +20,9 @@ Need help building your community or custom bot? You can [contact](https://disco
 ### My Skills and Tools & Software I Use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,jquery,bootstrap,vscode,mongodb,postgres,cloudflare,discord,github,git)
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iTzArshia&theme=github-compact&hide_border=true&area=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iTzArshia&count_private=true&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzArshia&layout=compact&theme=react)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iTzArshia&theme=react-dark&hide_border=true&area=true)
 
 [![Website arshia.gq](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://arshia.gq)
 [![iTz Club Discord](https://badgen.net/discord/members/8hr9CRqmfc)](https://discord.gg/8hr9CRqmfc)
