@@ -24,6 +24,8 @@ Need help building your community or custom bot? You can [contact](https://disco
 ![GitHub Streak](https://streak-stats.demolab.com/?user=iTzArshia&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iTzArshia&theme=react-dark&hide_border=true&area=true)
 #
+![Github Profile](./profile-3d-contrib/profile-night-view.svg)
+#
 [![Website arshia.gq](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://arshia.gq)
 [![iTz Club Discord](https://badgen.net/discord/members/8hr9CRqmfc)](https://discord.gg/8hr9CRqmfc)
 [![iTz Development Discord](https://badgen.net/discord/members/nKrBshQvcK)](https://discord.gg/nKrBshQvcK)
