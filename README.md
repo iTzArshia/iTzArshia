@@ -26,7 +26,7 @@ Need help building your community or custom bot? You can [contact](https://disco
 - I enjoy building, managing and moderating communities and help others to do it too.
 
 ### My Skills and Tools & Software I Use
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,jquery,bootstrap,vscode,mongodb,postgres,cloudflare,discord,github,git)](https://github.com/iTzArshia)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,jquery,bootstrap,vscode,mongodb,postgres,cloudflare,discord,github,git)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzArshia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzArshia)
