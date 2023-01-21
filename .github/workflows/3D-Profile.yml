@@ -1,4 +1,4 @@
-name: 3D Profile
+name: 3D-Profile
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
@@ -8,13 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Generate-3D-Profile
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: iTzArshia
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
