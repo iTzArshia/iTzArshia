@@ -1,4 +1,4 @@
-name: Snake
+name: generate animation
 
 on:
   # run automatically every 12 hours
@@ -37,4 +37,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
