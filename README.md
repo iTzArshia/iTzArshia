@@ -26,8 +26,6 @@ Need help building your community or custom bot? You can [contact](https://disco
 #
 ![Snake](https://github.com/iTzArshia/iTzArshia/blob/output/github-contribution-grid-snake-dark.svg)
 #
-[![Discord Presence](https://lanyard.cnrad.dev/api/555688871023869952)](https://discord.com/users/555688871023869952)
-
 [![iTz Club Discord](https://badgen.net/discord/members/8hr9CRqmfc)](https://discord.gg/8hr9CRqmfc)
 [![iTz Development Discord](https://badgen.net/discord/members/nKrBshQvcK)](https://discord.gg/nKrBshQvcK)<br>
 [![Website arshia.gq](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://arshia.gq)
