@@ -8,7 +8,7 @@ I joined Discord 4 years ago and soon got interested in creating servers, coding
 
 I have had over 50 projects! I've also worked with a lot of big servers and content creators, helping them to broaden and manage their communities on Discord.
 
-Need help building your community or custom bot? You can [contact](https://discord.com/channels/@me/555688871023869952) me on Discord!
+Need help building your community or custom bot? You can [contact](https://discord.com/users/555688871023869952) me on Discord!
 
 ## What I'm Doing
 
