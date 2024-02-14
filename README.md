@@ -6,7 +6,7 @@ I'm Arshia, a 20-year-old developer from Iran who goes by "iTz Arshia" in media.
 
 I joined Discord 6 years ago and soon got interested in creating servers, coding bots, managing communities, designing stuff, and even made my community, iTz Club, where I spend most of my time. After iTz Club I created a Discord bot called VOID, a verified, multipurpose bot that's been added to more than 9000 servers with unique commands that'd help you to moderate and manage your server/community in a better way.
 
-I have had over 100 projects! I've also worked with a lot of big servers and content creators, helping them to broaden and manage their communities on Discord.
+I've had over 100 projects! I've also worked with a lot of big servers and content creators, helping them to broaden and manage their communities on Discord.
 
 Need help building your community or custom bot? You can [contact](https://discord.com/channels/@me/555688871023869952) me on Discord!
 
